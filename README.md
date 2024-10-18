@@ -39,8 +39,8 @@
 ## Go Live:
 https://purple-mushroom-0f4650010.5.azurestaticapps.net
 
-# View Virtually
-
+# View Virtually:
+https://drive.google.com/file/d/1MKLnBrvaYxp8zpvHlOtSVJaZAym-nDUA/view?usp=drive_link
 
 **Free Software, Hell Yeah!**
 # Chatbot
