@@ -35,7 +35,7 @@
 
 
 <br>
-# Go Live
+Go Live
 https://purple-mushroom-0f4650010.5.azurestaticapps.net
 
 # View Virtually
